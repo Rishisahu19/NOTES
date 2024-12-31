@@ -1,5 +1,3 @@
-# Last-Min-Notes
-
 # TECHNICAL SUBJECTS:)
 <h1 align='center'>OBJECT ORIENTED PROGRAMMING</h1><br>
 
